@@ -1,0 +1,135 @@
+.buttonCatch {
+    margin: 50px auto 0 auto;
+    display: flex;
+
+}
+.image {
+    width: 200px;
+    height: 100%;
+}
+
+.modals {
+    justify-content: center;
+    border: none;
+    display: flex;
+    margin-top: 70px;
+}
+.descriptions {
+    font-size: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.buttonPokemon {
+    float: left;
+    z-index: 1;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    position: fixed;
+    bottom: 0;
+    margin: 0 0 50px 50px;
+}
+
+
+.forms {
+    margin: 25px 0 0 0;
+}
+
+.cards {
+    margin-bottom: 20px;
+    border-radius: 10px;
+    border: solid 0.5px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.cardsModal {
+    width: auto;
+    margin: 20px auto 0 auto;
+    display: flex;
+}
+
+.title {
+    text-transform: uppercase;
+}
+
+.titles {
+    color: white;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1px;
+}
+
+
+.borders {
+    margin-top: 35px;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    border: solid 3px black;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 25px;
+    color: white;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+.normal {
+    background-color: #A8A77A;
+}
+
+.fire {
+    background-color: #EE8130;
+}
+
+.water {
+    background-color: #6390F0;
+}
+.electric {
+    background-color: #F7D02C;
+}
+.grass {
+    background-color: #7AC74C;
+}
+.ice {
+    background-color: #96D9D6;
+}
+.fighting {
+    background-color: #C22E28;
+}
+.poison {
+    background-color: #A33EA1;
+}
+.ground {
+    background-color: #E2BF65;
+}
+.flying {
+    background-color: #A98FF3;
+}
+.psychic {
+    background-color: #F95587;
+}
+.bug {
+    background-color: #A6B91A;
+}
+.rock {
+    background-color: #B6A136;
+}
+.ghost {
+    background-color: #735797;
+}
+.dragon {
+    background-color: #6F35FC;
+}
+.dark {
+    background-color: #705746;
+}
+.steel {
+    background-color: #B7B7CE;
+}
+.fairy {
+    background-color: #D685AD;
+}

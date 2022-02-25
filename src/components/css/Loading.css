@@ -1,0 +1,15 @@
+.loading {
+    display: flex;
+}
+
+.loading-size {
+    width: 200px;
+    height: 200px;
+    margin-top: 10rem;
+}
+
+.description {
+    font-size: 30px;
+    letter-spacing: 1px;
+    margin-top: 5vh;
+}

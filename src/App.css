@@ -1,7 +1,16 @@
 .App {
   text-align: center;
 }
-
+.navbar {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
+.myPokemon {
+  font-size: 20px;
+  letter-spacing: 2px;
+  font-weight: bold;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
